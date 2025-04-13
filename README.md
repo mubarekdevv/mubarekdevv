@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Mubarek
 
-<!--
-**mubarekdevv/mubarekdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | HTML, CSS, Bootstrap  
+🎨 UI/UX Designer | Figma to Code Conversion  
+📬 Reach me: [LinkedIn](https://www.linkedin.com/in/mubarek-jemal-103865230/) | mubarekj71@gmail.com 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+I'm currently building high-quality, responsive websites and interfaces including:
+
+- 🌐 Personal Portfolio Website  
+- 🍎 Apple Homepage Clone  
+- 🛒 Amazon Mini Clone  
+- 🏪 Local Business Website
+
+I’m open to freelance work and collaboration opportunities. Let’s build something amazing together!
+
