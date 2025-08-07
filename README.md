@@ -1,6 +1,6 @@
 👋 Hi, I'm Mubarek
 
-💻 Frontend Developer | HTML, CSS, Bootstrap  
+💻 Frontend Developer | HTML, CSS, Bootstrap, JavaScript, Typescript, Firebase 
 🎨 UI/UX Designer | Figma to Code Conversion  
 📬 Reach me: [LinkedIn](https://www.linkedin.com/in/mubarek-jemal-103865230/) | mubarekj71@gmail.com 
 
