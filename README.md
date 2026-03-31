@@ -2,7 +2,7 @@
 
 💻 Frontend Developer | HTML, CSS, Bootstrap, JavaScript, Typescript, Firebase 
 🎨 UI/UX Designer | Figma to Code Conversion  
-📬 Reach me: [Portfolio]Portfolio | Mubarek Jemal https://mubarekdev.pages.dev/ | mubarekj71@gmail.com 
+📬 Reach me: [Portfolio]Portfolio | Mubarek Jemal https://mubarekjemal.vercel.app/ | mubarekh80@gmail.com 
 
 ---
 
