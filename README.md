@@ -6,14 +6,5 @@
 
 ---
 
-### 🚀 Projects
-
-I'm currently building high-quality, responsive websites and interfaces including:
-
-- 🌐 Personal Portfolio Website  
-- 🍎 Apple Homepage Clone  
-- 🛒 Amazon Mini Clone  
-- 🏪 Local Business Website
-
 I’m open to freelance work and collaboration opportunities. Let’s build something amazing together!
 
