@@ -1,7 +1,7 @@
 👋 Hi, I'm Mubarek
 
-💻 Frontend Developer | HTML, CSS, Bootstrap, JavaScript, Typescript, Firebase 
-🎨 UI/UX Designer | Figma to Code Conversion  
+💻 Full Stack Developer | HTML, CSS, Bootstrap, JavaScript, Typescript, React, Firebase, nodejs, Python, Dart, Flutter
+🎨 UI/UX Designer | MERN stack Developer | Mobile application Developer
 📬 Reach me: [Portfolio]Portfolio | Mubarek Jemal https://mubarekjemal.vercel.app/ | mubarekh80@gmail.com 
 
 ---
